@@ -1,1 +1,9 @@
 # Pattern-Triangle
+
+Sample Output
+
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * * 
