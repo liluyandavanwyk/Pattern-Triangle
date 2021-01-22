@@ -1,18 +1,3 @@
 # Pattern-Triangle
 
-
-
-
-
-
-
-
-
-
-Sample Output
-
-   * 
-   * * 
-  * * * 
- * * * * 
-* * * * * 
+This code will print a tringle shape.
