@@ -1,5 +1,14 @@
 # Pattern-Triangle
 
+
+
+
+
+
+
+
+
+
 Sample Output
 
    * 
