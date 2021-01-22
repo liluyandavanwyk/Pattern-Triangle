@@ -2,7 +2,7 @@
 
 Sample Output
 
-    * 
+   * 
    * * 
   * * * 
  * * * * 
